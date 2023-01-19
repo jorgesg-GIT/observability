@@ -79,6 +79,6 @@ services:
     container_name: app_example
     restart: unless-stopped
     ports:
-    - 80:8080
+    - 90:8080
 
   
